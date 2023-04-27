@@ -4,6 +4,14 @@
 
 Адаптивная страница, сделанная с использованием фреймворка <a href="https://getbootstrap.com/">Bootstrap</a>, а также библиотек <a href="https://sweetalert2.github.io/">SweetAlert2</a> и <a href="https://listjs.com/">List.js</a>
 
+### _Реализованы возможности:_ ###
+- добавлять новый товар
+- удалять товары
+- сортировать по колонкам
+- перемещать товар в корзину
+- проставлять скидки
+- считать стоимость корзины
+
 <h3><a href="https://dmitriyrusov.github.io/Magazin-Bootstrap_list_sweetalert/">Ссылка на страницу.</a></h3>
 
 ### _Реализация:_ ###
